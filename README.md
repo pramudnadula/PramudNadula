@@ -13,6 +13,7 @@
 [<img align="left" alt="PramudNadula | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="PramudNadula | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="PramudNadula | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="PramudNadula | PramudNadula" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/wordpress.svg" />][Portfolio]
 
 <br />
 
@@ -34,7 +35,9 @@
 <br />
 <br />
 
+
 [twitter]: https://twitter.com/pramudnadula
 [instagram]: https://www.instagram.com/_pramud_/
 [facebook]: https://www.facebook.com/pramud.nadula.9/
 [linkedin]: https://www.linkedin.com/in/pramudnadula
+[Portfolio]: https://www.pramudnadula.com/
