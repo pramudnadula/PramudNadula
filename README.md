@@ -9,11 +9,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="PramudNadula | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="PramudNadula | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="PramudNadula | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="PramudNadula | Twitter" width="22px" src="https://img.icons8.com/fluency/48/000000/twitter.png" />][twitter]
+[<img align="left" alt="PramudNadula | LinkedIn" width="22px" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="PramudNadula | Instagram" width="22px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />][instagram]
 [<img align="left" alt="PramudNadula | Facebook" width="22px" src="https://img.icons8.com/fluency/50/000000/facebook-new.png" />][facebook]
-[<img align="left" alt="PramudNadula | PramudNadula" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/wordpress.svg" />][Portfolio]
+[<img align="left" alt="PramudNadula | PramudNadula" width="22px" src="https://img.icons8.com/color/48/000000/domain--v1.png" />][Portfolio]
 
 <br />
 
