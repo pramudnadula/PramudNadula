@@ -1,6 +1,6 @@
 ### Hi there, I'm Pramud Nadula 👋
 
-## I'm a Web Designer,Full Stack Developer, Youtuber and a Tech Geek!!
+## I'm a Web Designer,Full Stack Developer and a Tech Geek!!
 
 - 🎓 I am a Software Engineer undergraduate at Sri Lanka Institute of Information Technology
 - 👨🏻‍💻 I’m currently learning everything 🤣
